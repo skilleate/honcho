@@ -196,3 +196,5 @@ grafana-data/
 
 # Claude Code addon stuff
 .omc
+.tokensave/
+.claude/.headroom_wrap_marker.json
